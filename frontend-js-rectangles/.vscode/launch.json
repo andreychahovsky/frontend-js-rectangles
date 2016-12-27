@@ -5,7 +5,7 @@
 			"name": "dev",
 			"type": "node",
 			"request": "launch",
-			"program": "${workspaceRoot}/src/my.js",
+			"program": "${workspaceRoot}/src/index.js",
 			"stopOnEntry": false,
 			"args": [],
 			"cwd": "${workspaceRoot}/src",
